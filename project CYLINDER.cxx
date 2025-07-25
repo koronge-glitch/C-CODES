@@ -1,3 +1,8 @@
+NAME:SAMSON KORONGE MWANDAU 
+REG NO: BSE-01-0076/2025
+PROJ NAME:CLASS CYLINDER
+
+
 #include<iostream>
 using namespace std ;
 
