@@ -1,6 +1,8 @@
 NAME:SAMSON KORONGE MWANDAU 
 REG NO:BSE-01-0076/2025
 PROJ NAME: PROJECT MATH
+
+        
 #include <iostream>
 #include <math.h>
 using namespace std;
