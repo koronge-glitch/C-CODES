@@ -1,4 +1,7 @@
-
+NAME:SAMSON KORONGE MWANDAU
+REG NO : BSE-01-0076/2025
+PROJ NAME: PROJECT CAR
+        
 #include <iostream>
 using namespace std;
 
